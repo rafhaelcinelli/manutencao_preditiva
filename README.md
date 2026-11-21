@@ -1,10 +1,10 @@
 # Manutenção Preditiva com Machine Learning
 
-Projeto desenvolvido para o Módulo 1 para prever quando uma máquina vai quebrar na fábrica usando dados de sensores.
+Projeto desenvolvido no Módulo 1 para prever quando uma máquina vai quebrar na fábrica usando dados de sensores.
 
 ## Problema
 
-Em uma fábrica monitorada por sensores, quando uma máquina quebra de surpresa, a produção para e gera prejuízo. O objetivo deste projeto é treinar modelos de Machine Learning para prever se a máquina vai falhar (`1`) ou continuar funcionando normal (`0`), ajudando a equipe de manutenção a agir antes da quebra.
+Em uma fábrica monitorada por sensores, quando uma máquina quebra de surpresa, a produção para e gera prejuízo. O objetivo deste projeto é treinar modelos de Machine Learning para prever se a máquina vai falhar (`1`) ou continuar funcionando normalmente (`0`), ajudando a equipe de manutenção a agir antes da quebra.
 
 ## Base de dados
 
@@ -119,8 +119,4 @@ Criei uma branch para cada fase, saindo da `develop`, e juntei tudo na `main` no
 | `feature/ajuste-modelos` | Fase 6: variação de `K` e `max_depth` e análise de overfitting |
 | `feature/avaliacao-final` | Fase 7: avaliação final no teste e conclusão |
 | `feature/documentacao` | Criação do `requirements.txt` e do `README.md` |
-| `feature/ajuste-readme` | Revisão dos textos do notebook, correção da formatação do README e inclusão do link do vídeo. |
-
-## Vídeo
-
-* Link da apresentação no Google Drive: 
+| `feature/ajuste-readme` | Revisão dos textos do notebook, correção da formatação do README.
